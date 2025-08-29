@@ -7,7 +7,7 @@
 <h3 align="center">Développeur en apprentissage, passionné par le code</h3>
 
 <p align="center">
-  <em>"Chaque jour une nouvelle ligne de code, chaque jour une nouvelle leçon."</em>
+  <em>"Toute technologie suffisamment avancée est indiscernable de la magie. Arthur C. Clarke"</em>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### 📚 En apprentissage
 - 🔹 Approfondissement de **Java** & **Node.js**  
 - 🔹 Premiers projets avec **React**  
-- 🔹 Expérimentations avec **bots Discord** et automatisations  
+- 🔹 Expérimentations avec **docker** et **lmstudio**  
 
 ---
 
@@ -55,9 +55,9 @@
 ---
 
 ### 🎉 Fun facts
-- 🎮 J’adore tester et bidouiller des serveurs de jeux  
+- 🎮 J’adore decouvrir de nouveaux environnement pour ensuite voir a quelle point j'aimais l'ancien 
 - 🎧 Je code souvent en musique  
-- ☕ Le café > toutes les autres boissons  
+- ☕ Le diabolo fraise > toutes les autres boissons  
 
 ---
 
@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarize&style=flat-square&color=blue" alt="visits"/>
+  <img src="https://komarev.com/ghpvc/?username=aarize720&style=flat-square&color=blue" alt="visits"/>
 </p>

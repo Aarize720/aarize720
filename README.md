@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://i.ibb.co/7k9fFZx/github-banner.png" alt="banner" />
+  <img src="https://i.ibb.co/7k9fFZx" alt="banner" />
 </p>
 
 <h1 align="center">👋 Salut, moi c’est Aarize</h1>

@@ -2,8 +2,6 @@
 <p align="center">
   <img src="./github-header-banner.png" alt="banner" />
 </p>
-
-<h1 align="center">👋 Salut, moi c’est Aarize</h1>
 <h3 align="center">Développeur en apprentissage, passionné par le code</h3>
 
 <p align="center">

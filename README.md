@@ -67,8 +67,7 @@
 
 ---
 
-### 🐍 Animation des contributions
-![snake gif](https://github.com/aarize/aarize/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aarize720/aarize720/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

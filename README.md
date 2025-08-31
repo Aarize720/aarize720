@@ -53,7 +53,7 @@
 ---
 
 ### 🎉 Fun facts
-- 🎮 J’adore decouvrir de nouveaux environnement pour ensuite voir a quelle point j'aimais l'ancien 
+- 🎮 J’adore decouvrir de nouveaux environnement pour enrichir ma connaissence et develloper de nouvelle compétences 
 - 🎧 Je code souvent en musique  
 - ☕ Le diabolo fraise > toutes les autres boissons  
 

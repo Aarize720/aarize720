@@ -42,11 +42,11 @@
 
 ### 🚧 Mes projets GitHub
 <p align="center">
-  <a href="https://github.com/aarize/discord-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize&repo=discord-bot&theme=radical" />
+  <a href="https://github.com/aarize/simplewarp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=simplewarp&theme=radical" />
   </a>
-  <a href="https://github.com/aarize/learning-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize&repo=learning-website&theme=radical" />
+  <a href="https://github.com/aarize/evolupets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=evolupets&theme=radical" />
   </a>
 </p>
 

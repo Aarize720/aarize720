@@ -42,10 +42,10 @@
 
 ### 🚧 Mes projets GitHub
 <p align="center">
-  <a href="https://github.com/Aarize720/EvoluPets">
+  <a href="https://github.com/aarize720/EvoluPets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize&repo=discord-bot&theme=radical" />
   </a>
-  <a href="https://github.com/aarize/learning-website">
+  <a href="[https://github.com/aarize/](https://github.com/Aarize720/SimpleWarp)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize&repo=learning-website&theme=radical" />
   </a>
 </p>

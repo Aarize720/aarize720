@@ -41,7 +41,14 @@
 ---
 
 ### 🚧 Mes projets GitHub
-![Metrics](https://metrics.lecoq.io/aarize720?template=classic&base.repositories=1&repositories=100&repositories.affiliations=owner&repositories.batch=100&repositories.featured=stars&config.timezone=Europe%2FParis)
+<p align="center">
+  <a href="https://github.com/Aarize720/EvoluPets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize&repo=discord-bot&theme=radical" />
+  </a>
+  <a href="https://github.com/aarize/learning-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize&repo=learning-website&theme=radical" />
+  </a>
+</p>
 
 
 ---

@@ -45,7 +45,13 @@
   <a href="https://github.com/Aarize720/EvoluPets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=EvoluPets&theme=radical" />
   </a>
+  <a href="https://github.com/Aarize720/Stock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=SimpleWarp&theme=radical" />
+  </a>
   <a href="https://github.com/Aarize720/SimpleWarp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=SimpleWarp&theme=radical" />
+  </a>
+  <a href="https://github.com/Aarize720/tombmaster">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=SimpleWarp&theme=radical" />
   </a>
 </p>
@@ -62,7 +68,7 @@
 
 ### 📫 Me contacter
 <p align="center">
-  <a href="[https://discord.gg/CAnAuGTpsq](https://discord.com/users/1110861220489216010)"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="[https://discord.com/users/1110861220489216010](https://discord.com/users/1110861220489216010)"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:officel.vega2944@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 

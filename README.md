@@ -45,8 +45,8 @@
   <a href="https://github.com/Aarize720/EvoluPets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=EvoluPets&theme=radical" />
   </a>
-  <a href="https://github.com/Aarize720/Stock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=Stock&theme=radical" />
+  <a href="https://github.com/Aarize720/Stocks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=Stocks&theme=radical" />
   </a>
   <a href="https://github.com/Aarize720/TaskManager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=taskmanager&theme=radical" />

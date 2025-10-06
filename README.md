@@ -46,13 +46,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=EvoluPets&theme=radical" />
   </a>
   <a href="https://github.com/Aarize720/Stock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=SimpleWarp&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=Stock&theme=radical" />
   </a>
-  <a href="https://github.com/Aarize720/SimpleWarp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=SimpleWarp&theme=radical" />
+  <a href="https://github.com/Aarize720/TaskManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=taskmanager&theme=radical" />
   </a>
-  <a href="https://github.com/Aarize720/tombmaster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=SimpleWarp&theme=radical" />
+  <a href="https://github.com/Aarize720/TrueSocial">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aarize720&repo=truesocial&theme=radical" />
   </a>
 </p>
 
